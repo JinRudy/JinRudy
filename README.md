@@ -15,7 +15,7 @@
 
 ### 网易云音乐 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg)](https://open.spotify.com/user/11153360645)
 
 ---
 
