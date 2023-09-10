@@ -11,8 +11,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### 网易云音乐 🎧
 
 [![Spotify](https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
