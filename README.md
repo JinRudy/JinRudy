@@ -79,8 +79,8 @@
 ---
 
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[website]: https://jinrudy.github.io/
+[instagram]: https://jinrudy.github.io/
+[linkedin]: https://jinrudy.github.io/
 
 
