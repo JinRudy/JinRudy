@@ -8,16 +8,17 @@
 - 📚 Python自动化...
 - 💪🏼 跑步、看书、音乐、历史
 - ⚡ 效率至上
+[![Spotify](https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
+
 
 ---
 
 ### 本周推荐哟 🎧
 
-[![Spotify](https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
+[<img align="left" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>][website]
 
-<img align="right" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>
 
-<img align="right" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>
+[<img align="right" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>][website]
 
 ---
 
