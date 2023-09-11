@@ -17,6 +17,8 @@
 
 <img align="right" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>
 
+<img align="right" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>
+
 ---
 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapache%2Fdolphinscheduler&countColor=%23263759"/>
