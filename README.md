@@ -19,7 +19,7 @@
 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapache%2Fdolphinscheduler&countColor=%23263759"/>
 
-### 联系我 📝
+### 关于 📝
 
 [<img align="left" alt="WuShui" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
 [<img align="left" alt="WuShui | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
@@ -29,7 +29,7 @@
 
 ---
 
-### 神奇小屋 🛠 
+### 技能树 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
