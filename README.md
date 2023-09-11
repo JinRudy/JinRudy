@@ -15,6 +15,8 @@
 
 [![Spotify](https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
 
+<img align="right" src="https://github.com/JinRudy/netease-cloud-music-card/blob/main/card.svg"/>
+
 ---
 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapache%2Fdolphinscheduler&countColor=%23263759"/>
