@@ -74,7 +74,7 @@
 
 ---
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+ ### ⭐️ From [JinRudy](https://github.com/JinRudy) ### 
  
 ---
 
