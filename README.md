@@ -22,7 +22,7 @@
 
 [<img align="left" alt="WuShui" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
 [<img align="left" alt="WuShui | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="WuShui | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="WuShui | Instagram" width="40px" src="https://i.pinimg.com/originals/3f/84/8c/3f848c72c925b86911ce99ec280a22b5.gif" />][instagram]
 
 <br />
 
@@ -59,7 +59,7 @@
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
+
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JinRudy&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
@@ -68,18 +68,17 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinRudy&theme=react&line_height=80&hide=css"/>
     </a>
 </div
-  
+
 <br/>
 
 ---
 
  ### ⭐️ From [WuShui](https://github.com/JinRudy) ### 
- 
+
 ---
 
 
 [website]: https://jinrudy.github.io/
 [instagram]: https://jinrudy.github.io/
 [linkedin]: https://jinrudy.github.io/
-
 
