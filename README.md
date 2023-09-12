@@ -67,7 +67,7 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinRudy&theme=react&line_height=80&hide=css"/>
     </a>
-</div
+  </div>
 
 <br/>
 
