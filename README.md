@@ -13,7 +13,7 @@
 
 ### 本周推荐哟 🎧
 
-[![WangYiYun](https://git.wushui.fun/netease-cloud-music-card/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
+[![WangYiYun](https://a.minifog.org.cn/netease-cloud-music-card/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
 
 ---
 
