@@ -1,84 +1,68 @@
-# 雾水 [WuShui][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<div align="center">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## 成长树  
-
-- 👨‍💻 Coder
-- 📚 Python自动化...
-- 💪🏼 跑步、看书、音乐、历史
-- ⚡ 效率至上
-
----
-
-### 本周推荐哟 🎧
-
-[![WangYiYun](https://a.minifog.org.cn/netease-cloud-music-card/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
-
----
-
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fapache%2Fdolphinscheduler&countColor=%23263759"/>
-### 关于 📝
-
-[<img align="left" alt="WuShui" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="WuShui | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="WuShui | Instagram" width="40px" src="https://i.pinimg.com/originals/3f/84/8c/3f848c72c925b86911ce99ec280a22b5.gif" />][instagram]
-
-<br />
-
----
-
-### 技能树 🛠 
-
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=70&lines=Hi+%F0%9F%91%8B+I%27m+WuShui+%2F+%E9%9B%BE%E6%B0%B4%3BCoder+%C2%B7+Python+Automation+%C2%B7+Java%3BAI+%2F+Agent+Explorer+%F0%9F%A4%96%3B%E6%B8%B8%E6%88%8F+%C2%B7+%E8%AF%BB%E4%B9%A6+%C2%B7+%E9%9F%B3%E4%B9%90+%C2%B7+%E5%8E%86%E5%8F%B2" alt="typing" />
 
 <br/>
 
----
+<a href="https://jinrudy.github.io/"><img src="https://img.shields.io/badge/Blog-%E5%A2%A8%E9%9D%92%E6%B0%B4%E5%A2%A8%E9%A3%8E-7AA2F7?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
+<a href="https://github.com/JinRudy"><img src="https://img.shields.io/badge/GitHub-JinRudy-181717?style=for-the-badge&logo=github" /></a>
+<img src="https://komarev.com/ghpvc/?username=JinRudy&color=7AA2F7&style=for-the-badge&label=VISITORS" />
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JinRudy&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinRudy&theme=react&line_height=80&hide=css"/>
-    </a>
-  </div>
-
-<br/>
+</div>
 
 ---
 
- ### ⭐️ From [WuShui](https://github.com/JinRudy) ### 
+## 👋 关于我
+
+- 🧑‍💻 一名 **Coder**，专注 **Python 自动化** 与 **Java** 后端
+- 🤖 正在折腾 **AI / Agent**：LangChain · LlamaIndex · AutoGPT
+- 📝 维护一个 [墨青水墨风博客](https://jinrudy.github.io/)：暗色模式 · 全文搜索 · 时间线归档 · Mermaid
+- 🎮 游戏　📚 读书　🎵 音乐　📜 历史
+- ⚡ 信奉 **效率至上**
 
 ---
 
+## 🛠 技能树
 
-[website]: https://jinrudy.github.io/
-[instagram]: https://jinrudy.github.io/
-[linkedin]: https://jinrudy.github.io/
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,sass,bootstrap,mysql,git,github,gitlab,vscode,linux,windows,md&theme=dark&perline=9" alt="skills" />
+
+</div>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JinRudy&theme=tokyonight" alt="profile-details" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JinRudy&theme=tokyonight" alt="stats" />
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=JinRudy&theme=tokyonight&hide_border=true&stroke=7AA2F7&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" alt="streak" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JinRudy&theme=tokyonight&utcOffset=8" alt="productive-time" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JinRudy&theme=tokyonight" alt="repos-per-language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JinRudy&theme=tokyonight" alt="most-commit-language" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JinRudy&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="activity-graph" />
+
+</div>
+
+---
+
+## 🎧 本周推荐
+
+<div align="center">
+
+[![NeteaseMusic](https://a.minifog.org.cn/netease-cloud-music-card/card.svg)](https://music.163.com/playlist?id=429596204&userid=309349405)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From <a href="https://github.com/JinRudy">WuShui</a> · 以梦为马，不负韶华
+
+</div>
