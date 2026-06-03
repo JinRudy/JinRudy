@@ -17,7 +17,6 @@
 - 🧑‍💻 一名 **Coder**，专注 **Python 自动化** 与 **Java** 后端
 - 🤖 正在折腾 **AI / Agent**：LangChain · LlamaIndex · AutoGPT
 - 📝 维护一个 [墨青水墨风博客](https://jinrudy.github.io/)：暗色模式 · 全文搜索 · 时间线归档 · Mermaid
-- 🎮 游戏　📚 读书　🎵 音乐　📜 历史
 - ⚡ 信奉 **效率至上**
 
 ---
@@ -46,6 +45,19 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JinRudy&theme=tokyonight" alt="most-commit-language" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JinRudy&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="activity-graph" />
+
+</div>
+
+---
+
+## 🌱 工作之余
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/读书-7AA2F7?style=for-the-badge&logo=goodreads&logoColor=white" alt="读书" />
+<img src="https://img.shields.io/badge/游戏-BB9AF7?style=for-the-badge&logo=steam&logoColor=white" alt="游戏" />
+<img src="https://img.shields.io/badge/历史-7DCFFF?style=for-the-badge&logo=wikipedia&logoColor=white" alt="历史" />
+<img src="https://img.shields.io/badge/音乐-9ECE6A?style=for-the-badge&logo=applemusic&logoColor=white" alt="音乐" />
 
 </div>
 
