@@ -34,18 +34,22 @@
 ## 📊 GitHub 数据
 
 <div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JinRudy&theme=tokyonight" alt="profile-details" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JinRudy&theme=tokyonight" alt="stats" />
-<img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=JinRudy&theme=tokyonight&hide_border=true&stroke=7AA2F7&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" alt="streak" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JinRudy&theme=tokyonight&utcOffset=8" alt="productive-time" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JinRudy&theme=tokyonight" alt="repos-per-language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JinRudy&theme=tokyonight" alt="most-commit-language" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JinRudy&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="activity-graph" />
-
+<table>
+<tr>
+<td colspan="2"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JinRudy&theme=tokyonight" alt="profile" /></td>
+</tr>
+<tr>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JinRudy&theme=tokyonight" alt="repos-lang" /></td>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JinRudy&theme=tokyonight" alt="commit-lang" /></td>
+</tr>
+<tr>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JinRudy&theme=tokyonight" alt="stats" /></td>
+<td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JinRudy&theme=tokyonight&utcOffset=8" alt="productive-time" /></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JinRudy&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="activity" /></td>
+</tr>
+</table>
 </div>
 
 ---
